@@ -1,0 +1,32 @@
+.contact-page {
+    border: 2px solid white;
+    border-radius: 30px;
+    height: 90vh;
+    width: 95%;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    
+}
+
+.contact-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-card {
+    height: 30vh;
+    width: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    opacity: 55%;
+}

@@ -1,0 +1,16 @@
+.experiences-page {
+    border: 2px solid white;
+    border-radius: 30px;
+    height: 90vh;
+    width: 95%;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    opacity: 80%;
+    overflow: auto;
+}
+
+.experiences-content {
+    display: flex;
+}

@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    /* background-color:  rgb(213, 176, 251); */
+    
+    /* position: relative; */
+}
+
+.bg-image {
+    /* The image used */
+    background-image: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    /* background-image: url(https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=3013&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+
+    /* Add the blur effect */
+    filter: blur(20px); 
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    position: fixed;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+.app {
+    display: flex;  
+    z-index: 2;
+}
+
+.side-bar {
+    position: fixed; 
+    width: 10vh;
+    z-index: 2;
+}
+
+.content {
+    height: 100vh;
+    margin-left: 10vh;
+    padding: 1rem;
+    z-index: 2;
+}

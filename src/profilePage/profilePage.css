@@ -1,0 +1,6 @@
+.profile-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25vh 0 25vh 15vh;
+}
