@@ -6,20 +6,20 @@ export default function ExperiencesPage() {
         <div id="experiences" className="experiences-page">
             <h3>Past Experiences And Projects</h3>
             <div className="experiences-content">
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
             </div>
             <div className="experiences-content">
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
             </div>
             <div className="experiences-content">
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
             </div>
             <div className="experiences-content">
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
-                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/assets/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
+                <ExperienceCard title="SPARSH" description="bye" experienceImageURL='url("/trialProject.png")' link="sparshsvnit.in"/>
             </div>
             
         </div>
